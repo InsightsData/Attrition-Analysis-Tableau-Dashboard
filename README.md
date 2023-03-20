@@ -1,2 +1,2 @@
 # AttritionAnalysisDashboard
-![HR Attrition Analysis Dashboard](https://user-images.githubusercontent.com/120230351/226464125-cbc3edb6-a490-45e4-a0e6-2f5c367f07f2.png)
+![HR Attrition Analysis Dashboard](https://user-images.githubusercontent.com/120230351/226464892-413a401b-77f1-474c-80f1-5c200a0e666b.png)
