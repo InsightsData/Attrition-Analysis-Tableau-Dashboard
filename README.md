@@ -7,4 +7,5 @@ https://public.tableau.com/app/profile/lu.zhang2248/viz/FinalHRAttritionAnalysis
 1. Figured out why employees quit; surprisingly, the salary is not the primary drive!
 2. Examined factors of gender/salary/job level/job type/survey result
 3. Identified the department and jobs where employees quit the most
+
 (Dataset link: https://www.kaggle.com/datasets/thedevastator/employee-attrition-and-factors)
